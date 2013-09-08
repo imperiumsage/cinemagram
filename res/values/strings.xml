@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cinemagram</string>
+    <string name="add_image_button">Submit your recreation in the contest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">1950</string>
+    <string name="title_section2">1970</string>
+    <string name="title_section3">1990</string>
+	<string name="select_image">Select Image</string>
+	<string name="hello">Hello</string>
+	<string name="details">Details</string>
+	<string name="start">Start</string>
+	<string name="tileServiceURL">http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer</string>
+    <string name="featureServiceURL1950">http://services1.arcgis.com/kLtVFOFMeCVCHjCn/arcgis/rest/services/1950/FeatureServer/0</string>
+    <string name="featureServiceURL1970">http://services1.arcgis.com/kLtVFOFMeCVCHjCn/arcgis/rest/services/1970/FeatureServer/0</string>
+	<string name="featureServiceURL1990">http://services1.arcgis.com/kLtVFOFMeCVCHjCn/arcgis/rest/services/1990/FeatureServer/0</string>
+	
+
+</resources>
